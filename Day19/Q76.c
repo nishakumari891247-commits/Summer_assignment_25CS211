@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main(){
     int a[10][10];
-    int i,j,n,s1=0,s2=0;
+    int i,j
+    ,n,s1=0,s2=0;
     printf("enter order of the matrix:\n");
     scanf("%d", &n);
     printf("enter the matrix:\n");
